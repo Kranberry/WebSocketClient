@@ -1,0 +1,16 @@
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.exe
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.deps.json
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.runtimeconfig.json
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.runtimeconfig.dev.json
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.dll
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\ref\SuperAmazingServer.dll
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\bin\Debug\net5.0\SuperAmazingServer.pdb
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.csprojAssemblyReference.cache
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.AssemblyInfoInputs.cache
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.AssemblyInfo.cs
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.csproj.CoreCompileInputs.cache
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.dll
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\ref\SuperAmazingServer.dll
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.pdb
+D:\C#_Projects\SuperAmazingServer\SuperAmazingServer\obj\Debug\net5.0\SuperAmazingServer.genruntimeconfig.cache
